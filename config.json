@@ -1,6 +1,6 @@
 {
     "port": 8080,
-    "trustProxy": false,
+    "trustProxy": true,
     "autoBlock": false,
     "queue": {
         "enabled": false,
